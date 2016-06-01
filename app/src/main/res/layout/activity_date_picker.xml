@@ -19,7 +19,8 @@
             android:id="@+id/tp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:descendantFocusability="blocksDescendants" />
+            android:descendantFocusability="blocksDescendants"
+            android:timePickerMode="spinner" />
     </LinearLayout>
 
     <TextView
